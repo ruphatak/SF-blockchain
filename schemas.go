@@ -23,10 +23,10 @@ var schemas = `
                                 "description": "A geographical coordinate",
                                 "properties": {
                                     "latitude": {
-                                        "type": "string"
+                                        "type": "number"
                                     },
                                     "longitude": {
-                                        "type": "string"
+                                        "type": "number"
                                     }
                                 },
                                 "type": "object"
@@ -58,13 +58,16 @@ var schemas = `
 							"ambienttemperature": {
                                 "description": "ambienttemperature",
                                 "type": "number"
-                            },"ambienthumidity": {
+                            },
+							"ambienthumidity": {
                                 "description": "ambienthumidity",
                                 "type": "number"
-                            },"soiltemperature": {
+                            },
+							"soiltemperature": {
                                 "description": "soiltemperature",
                                 "type": "number"
-                            },"luminosity": {
+                            },
+							"luminosity": {
                                 "description": "luminosity",
                                 "type": "number"
                             },
@@ -203,10 +206,10 @@ var schemas = `
                             "description": "A geographical coordinate",
                             "properties": {
                                 "latitude": {
-                                    "type": "string"
+                                    "type": "number"
                                 },
                                 "longitude": {
-                                    "type": "string"
+                                    "type": "number"
                                 }
                             },
                             "type": "object"
@@ -238,13 +241,16 @@ var schemas = `
 							"ambienttemperature": {
                                 "description": "ambienttemperature",
                                 "type": "number"
-                            },"ambienthumidity": {
+                            },
+							"ambienthumidity": {
                                 "description": "ambienthumidity",
                                 "type": "number"
-                            },"soiltemperature": {
+                            },
+							"soiltemperature": {
                                 "description": "soiltemperature",
                                 "type": "number"
-                            },"luminosity": {
+                            },
+							"luminosity": {
                                 "description": "luminosity",
                                 "type": "number"
                             },
@@ -305,10 +311,10 @@ var schemas = `
                                 "description": "A geographical coordinate",
                                 "properties": {
                                     "latitude": {
-                                        "type": "string"
+                                        "type": "number"
                                     },
                                     "longitude": {
-                                        "type": "string"
+                                        "type": "number"
                                     }
                                 },
                                 "type": "object"
@@ -340,13 +346,16 @@ var schemas = `
 							"ambienttemperature": {
                                 "description": "ambienttemperature",
                                 "type": "number"
-                            },"ambienthumidity": {
+                            },
+							"ambienthumidity": {
                                 "description": "ambienthumidity",
                                 "type": "number"
-                            },"soiltemperature": {
+                            },
+							"soiltemperature": {
                                 "description": "soiltemperature",
                                 "type": "number"
-                            },"luminosity": {
+                            },
+							"luminosity": {
                                 "description": "luminosity",
                                 "type": "number"
                             },
@@ -433,10 +442,10 @@ var schemas = `
                                 "description": "A geographical coordinate",
                                 "properties": {
                                     "latitude": {
-                                        "type": "string"
+                                        "type": "number"
                                     },
                                     "longitude": {
-                                        "type": "string"
+                                        "type": "number"
                                     }
                                 },
                                 "type": "object"
@@ -468,13 +477,16 @@ var schemas = `
 							"ambienttemperature": {
                                 "description": "ambienttemperature",
                                 "type": "number"
-                            },"ambienthumidity": {
+                            },
+							"ambienthumidity": {
                                 "description": "ambienthumidity",
                                 "type": "number"
-                            },"soiltemperature": {
+                            },
+							"soiltemperature": {
                                 "description": "soiltemperature",
                                 "type": "number"
-                            },"luminosity": {
+                            },
+							"luminosity": {
                                 "description": "luminosity",
                                 "type": "number"
                             },
@@ -530,10 +542,10 @@ var schemas = `
                     "description": "A geographical coordinate",
                     "properties": {
                         "latitude": {
-                            "type": "string"
+                            "type": "number"
                         },
                         "longitude": {
-                            "type": "string"
+                            "type": "number"
                         }
                     },
                     "type": "object"
@@ -564,13 +576,16 @@ var schemas = `
 							"ambienttemperature": {
                                 "description": "ambienttemperature",
                                 "type": "number"
-                            },"ambienthumidity": {
+                            },
+							"ambienthumidity": {
                                 "description": "ambienthumidity",
                                 "type": "number"
-                            },"soiltemperature": {
+                            },
+							"soiltemperature": {
                                 "description": "soiltemperature",
                                 "type": "number"
-                            },"luminosity": {
+                            },
+							"luminosity": {
                                 "description": "luminosity",
                                 "type": "number"
                             },
