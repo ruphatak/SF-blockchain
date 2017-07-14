@@ -492,4 +492,3 @@ func (t *SimpleChaincode) mergePartialState(oldState AssetState, newState AssetS
 	}
 	return oldState, nil
 }
-s
