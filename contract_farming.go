@@ -76,7 +76,7 @@ type AssetState struct {
 	FarmerID *string      `json:"farmerid,omitempty"`
 	SoilTemperature *float64      `json:"soiltemperature,omitempty"`
 	Luminosity *float64      `json:"luminosity,omitempty"`
-	Time     time.Time      `json:"time,omitempty"` 
+	Time     *float64      `json:"time,omitempty"` 
 }
 
 type AssetStateHistory struct {
