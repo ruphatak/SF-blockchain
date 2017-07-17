@@ -73,7 +73,7 @@ var schemas = `
                             },
 							"time": {
                                 "description": "time",
-                                "type": "date"
+                                "type": "number"
                             }
                         },
                         "required": [
@@ -256,7 +256,7 @@ var schemas = `
                             },
 							"time": {
                                 "description": "time",
-                                "type": "date"
+                                "type": "number"
                             }
                     },
                     "type": "object"
@@ -361,7 +361,7 @@ var schemas = `
                             },
 							"time": {
                                 "description": "time",
-                                "type": "date"
+                                "type": "number"
                             }
                         },
                         "type": "object"
@@ -492,7 +492,7 @@ var schemas = `
                             },
 							"time": {
                                 "description": "time",
-                                "type": "date"
+                                "type": "number"
                             }
                         },
                         "required": [
@@ -591,7 +591,7 @@ var schemas = `
                             },
 							"time": {
                                 "description": "time",
-                                "type": "date"
+                                "type": "number"
                             }
             },
             "required": [
@@ -679,7 +679,7 @@ var schemas = `
                             },
 							"time": {
                                 "description": "time",
-                                "type": "date"
+                                "type": "number"
                             }
             },
             "type": "object"
