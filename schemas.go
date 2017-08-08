@@ -74,6 +74,10 @@ var schemas = `
 							"time": {
                                 "description": "time",
                                 "type": "number"
+                            },
+							"soilindex": {
+                                "description": "soilindex",
+                                "type": "number"
                             }
                         },
                         "required": [
@@ -257,6 +261,10 @@ var schemas = `
 							"time": {
                                 "description": "time",
                                 "type": "number"
+                            },
+							"soilindex": {
+                                "description": "soilindex",
+                                "type": "number"
                             }
                     },
                     "type": "object"
@@ -361,6 +369,10 @@ var schemas = `
                             },
 							"time": {
                                 "description": "time",
+                                "type": "number"
+                            },
+							"soilindex": {
+                                "description": "soilindex",
                                 "type": "number"
                             }
                         },
@@ -493,6 +505,10 @@ var schemas = `
 							"time": {
                                 "description": "time",
                                 "type": "number"
+                            },
+							"soilindex": {
+                                "description": "soilindex",
+                                "type": "number"
                             }
                         },
                         "required": [
@@ -592,6 +608,10 @@ var schemas = `
 							"time": {
                                 "description": "time",
                                 "type": "number"
+                            },
+							"soilindex": {
+                                "description": "soilindex",
+                                "type": "number"
                             }
             },
             "required": [
@@ -679,6 +699,10 @@ var schemas = `
                             },
 							"time": {
                                 "description": "time",
+                                "type": "number"
+                            },
+							"soilindex": {
+                                "description": "soilindex",
                                 "type": "number"
                             }
             },
