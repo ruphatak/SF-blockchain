@@ -75,8 +75,8 @@ var schemas = `
                                 "description": "time",
                                 "type": "number"
                             },
-							"soilindex": {
-                                "description": "soilindex",
+							"priceindex": {
+                                "description": "priceindex",
                                 "type": "number"
                             }
                         },
@@ -262,8 +262,8 @@ var schemas = `
                                 "description": "time",
                                 "type": "number"
                             },
-							"soilindex": {
-                                "description": "soilindex",
+							"priceindex": {
+                                "description": "priceindex",
                                 "type": "number"
                             }
                     },
@@ -371,8 +371,8 @@ var schemas = `
                                 "description": "time",
                                 "type": "number"
                             },
-							"soilindex": {
-                                "description": "soilindex",
+							"priceindex": {
+                                "description": "priceindex",
                                 "type": "number"
                             }
                         },
@@ -506,8 +506,8 @@ var schemas = `
                                 "description": "time",
                                 "type": "number"
                             },
-							"soilindex": {
-                                "description": "soilindex",
+							"priceindex": {
+                                "description": "priceindex",
                                 "type": "number"
                             }
                         },
@@ -609,8 +609,8 @@ var schemas = `
                                 "description": "time",
                                 "type": "number"
                             },
-							"soilindex": {
-                                "description": "soilindex",
+							"priceindex": {
+                                "description": "priceindex",
                                 "type": "number"
                             }
             },
@@ -701,8 +701,8 @@ var schemas = `
                                 "description": "time",
                                 "type": "number"
                             },
-							"soilindex": {
-                                "description": "soilindex",
+							"priceindex": {
+                                "description": "priceindex",
                                 "type": "number"
                             }
             },
