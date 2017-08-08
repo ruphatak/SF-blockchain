@@ -35,7 +35,7 @@ import (
 	"fmt"
 	"reflect"
 	"strings"
-	
+
 	"github.com/hyperledger/fabric/core/chaincode/shim"
 )
 
@@ -77,6 +77,7 @@ type AssetState struct {
 	SoilTemperature *float64      `json:"soiltemperature,omitempty"`
 	Luminosity *float64      `json:"luminosity,omitempty"`
 	Time     *float64      `json:"time,omitempty"` 
+	PriceIndex	*float64      `json:"soilindex,omitempty"` 
 }
 
 type AssetStateHistory struct {
